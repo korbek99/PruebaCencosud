@@ -1,0 +1,4 @@
+XamAndroidContenedores.MainActivity, XamAndroidContenedores;md5020a1e2856385f1de2259cc516b96975.MainActivity
+XamAndroidContenedores.MainActivity, XamAndroidContenedores, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5020a1e2856385f1de2259cc516b96975.MainActivity
+XamAndroidContenedores.MainActivity;md5020a1e2856385f1de2259cc516b96975.MainActivity
+xamandroidcontenedores.MainActivity;md5020a1e2856385f1de2259cc516b96975.MainActivity
